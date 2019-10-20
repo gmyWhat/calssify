@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7766714",
+      "name": "icon_boss",
+      "font_class": "icon_boss",
+      "unicode": "eb90",
+      "unicode_decimal": 60304
+    },
+    {
+      "icon_id": "7766754",
+      "name": "icon_index_line",
+      "font_class": "icon_index_line",
+      "unicode": "eb97",
+      "unicode_decimal": 60311
+    },
+    {
+      "icon_id": "11348905",
+      "name": "bookmark-f",
+      "font_class": "bookmark-f",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}

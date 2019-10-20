@@ -1,0 +1,13 @@
+.foot {
+    width: 100%;
+    height: 50px;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foot p {
+    flex: 1;
+    text-align: center;
+}

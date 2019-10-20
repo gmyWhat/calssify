@@ -1,0 +1,291 @@
+[{
+        "name": "馒头",
+        "type": "foot",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 1
+    },
+    {
+        "name": "饺子",
+        "type": "foot",
+        "check": false,
+        "weight": 40,
+        "flag": 3,
+        "id": 2
+    },
+    {
+        "name": "大米",
+        "type": "foot",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 3
+    },
+    {
+        "name": "面条",
+        "type": "foot",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 4
+    },
+    {
+        "name": "红豆包",
+        "type": "foot",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 5
+    },
+    {
+        "name": "馒头",
+        "type": "foot",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 6
+    },
+    {
+        "name": "猪肉",
+        "type": "meta",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 7
+    },
+    {
+        "name": "羊肉",
+        "type": "meat",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 8
+    },
+    {
+        "name": "牛肉",
+        "type": "meat",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 9
+    },
+    {
+        "name": "鸡肉",
+        "type": "meat",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 10
+    },
+    {
+        "name": "黄豆",
+        "type": "soya",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 11
+    },
+    {
+        "name": "绿豆",
+        "type": "soya",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 12
+    },
+    {
+        "name": "豌豆",
+        "type": "soya",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 13
+    },
+    {
+        "name": "小扁豆",
+        "type": "soya",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 14
+    },
+    {
+        "name": "花腰豆",
+        "type": "soya",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 14
+    },
+    {
+        "name": "白菜",
+        "type": "veg",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 16
+    },
+    {
+        "name": "紫菜",
+        "type": "veg",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 17
+    },
+    {
+        "name": "蘑菇",
+        "type": "veg",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 18
+    },
+    {
+        "name": "西红柿",
+        "type": "veg",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 19
+    },
+    {
+        "name": "茄子",
+        "type": "veg",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 20
+    },
+    {
+        "name": "苹果",
+        "type": "fruits",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 21
+    },
+    {
+        "name": "黄梨",
+        "type": "fruits",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 22
+    },
+    {
+        "name": "香蕉",
+        "type": "fruits",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 23
+    },
+    {
+        "name": "芒果",
+        "type": "fruits",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 24
+    },
+    {
+        "name": "火龙果",
+        "type": "fruits",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 25
+    },
+    {
+        "name": "牛奶",
+        "type": "milk",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 26
+    },
+    {
+        "name": "酸奶",
+        "type": "milk",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 27
+    },
+    {
+        "name": "面包",
+        "type": "grease",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 28
+    },
+    {
+        "name": "油条",
+        "type": "grease",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 29
+    },
+    {
+        "name": "蛋糕",
+        "type": "grease",
+        "check": false,
+        "weight": 80,
+        "flag": 3,
+        "id": 30
+    },
+    {
+        "name": "核桃",
+        "type": "nut",
+        "check": false,
+        "weight": 12,
+        "flag": 3,
+        "id": 31
+    },
+    {
+        "name": "瓜子",
+        "type": "nut",
+        "check": false,
+        "weight": 10,
+        "flag": 3,
+        "id": 32
+    },
+    {
+        "name": "松仁",
+        "type": "nut",
+        "check": false,
+        "weight": 10,
+        "flag": 3,
+        "id": 33
+    },
+    {
+        "name": "开心果",
+        "type": "nut",
+        "check": false,
+        "weight": 6,
+        "flag": 3,
+        "id": 34
+    },
+    {
+        "name": "碧根果",
+        "type": "nut",
+        "check": false,
+        "weight": 8,
+        "flag": 3,
+        "id": 35
+    },
+    {
+        "name": "夏威夷果",
+        "type": "nut",
+        "check": false,
+        "weight": 4,
+        "flag": 3,
+        "id": 36
+    }
+
+
+]

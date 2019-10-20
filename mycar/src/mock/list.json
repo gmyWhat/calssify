@@ -1,0 +1,50 @@
+[{
+        "name": "主食类",
+        "type": "foot",
+        "id": 1,
+        "url": "IMG_03.jpg"
+    },
+    {
+        "name": "肉类",
+        "type": "meat",
+        "id": 2,
+        "url": "IMG_05.jpg"
+    },
+    {
+        "name": "大豆类",
+        "type": "soya",
+        "id": 3,
+        "url": "IMG_07.jpg"
+    },
+    {
+        "name": "蔬菜菌藻类",
+        "type": "veg",
+        "id": 4,
+        "url": "IMG_16.jpg"
+    },
+    {
+        "name": "水果类",
+        "type": "fruits",
+        "id": 5,
+        "url": "IMG_17.jpg"
+    },
+    {
+        "name": "奶类",
+        "type": "milk",
+        "id": 6,
+        "url": "IMG_18.jpg"
+    },
+    {
+        "name": "油脂类",
+        "type": "grease",
+        "id": 7,
+        "url": "IMG_22.jpg"
+    },
+    {
+        "name": "坚果类",
+        "type": "nut",
+        "id": 8,
+        "url": "IMG_23.jpg"
+    }
+
+]
